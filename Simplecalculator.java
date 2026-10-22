@@ -1,6 +1,4 @@
-**Program: Simple Calculator Using Switch-Case**
 
-```java
 import java.util.Scanner;
 
 public class SimpleCalculator {
@@ -45,4 +43,4 @@ public class SimpleCalculator {
         sc.close();
     }
 }
-```
+
